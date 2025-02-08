@@ -1,4 +1,4 @@
-# Alzheimer's Disease Diagnosis Using Multi-modal Learning
+# XNeuro: An Alzheimer's Disease Diagnosis Framework Using Multi-modal Learning
 
 This project develops a multimodal model to assess Alzheimer's disease using numerical data and MRI images.  
 The model classifies records into four categories: Non-Demented, Mild Dementia, Moderate Dementia, and Severe Dementia.It integrates diverse data sources to enhance diagnostic accuracy and reliability.
